@@ -1,3 +1,4 @@
+//Marshal Chen Period 1
 import java.util.Scanner;
 public class binaryConvert {
 	public static void main(String[] args) {
